@@ -1,2 +1,2 @@
-# First-Similar-Games
+# game-of-thrones-personality-matcher
 A t-sne implementation on GOT dataset
